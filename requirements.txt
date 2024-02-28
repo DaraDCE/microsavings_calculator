@@ -1,0 +1,5 @@
+# core app dependencies
+
+pandas
+numpy
+plotly-express
