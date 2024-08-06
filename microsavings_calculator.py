@@ -58,7 +58,7 @@ def calculate_daily_top_up(initial_deposit, savings_period,
 def main():
 
     # Title
-    st.title(f'Simulador de micropoupanças /n :money_with_wings: :bulb:')
+    st.title(f'Simulador de micropoupanças :money_with_wings: :bulb:')
 
     # Sidebar for user inputs
     st.sidebar.header("Fatores")
